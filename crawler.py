@@ -56,7 +56,6 @@ def parse_question(url, title):
 			answer = answers[i].find('div', class_='post-text').get_text()
 			entry = [title, answer]
 			print("===>")
-			print(title)
 			print(answer)
 
 def main():
