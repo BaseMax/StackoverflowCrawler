@@ -25,6 +25,10 @@ A web crawler which crawls the stackoverfolw website.
 
 It's same as a fork and depends on some other projects on the GitHub:
 
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+- https://pypi.org/project/bs4/
+- https://pypi.org/project/beautifulsoup4/
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/#get-text
 - https://github.com/topics/stackoverflow-crawler
 - https://github.com/rjstyles/StackOverflow-Crawler
 - https://github.com/topics/stackoverfolw-website
