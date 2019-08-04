@@ -1,6 +1,6 @@
 # Stackoverflow Crawler
 
-A web crawler which crawls the **Stack Overflow** website.
+A web crawler which crawls the **Stack Overflow** website. (Questions and Answers / Q&A)
 
 https://stackoverflow.com/
 
